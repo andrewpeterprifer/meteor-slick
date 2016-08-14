@@ -19,7 +19,7 @@ See [demo page][2] and [github project page][3] of the original Slick package fo
 
 #Install
 ```sh
-meteor add udondan:slick
+meteor add andrewpeterprifer:slick
 ```
 
 #Minimal example
