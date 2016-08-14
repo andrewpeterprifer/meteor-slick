@@ -1,8 +1,8 @@
 Package.describe({
   summary: "the last carousel you'll ever need",
-  name:    "udondan:slick",
-  version: "1.3.11_1",
-  git:     "https://github.com/udondan/meteor-slick"
+  name:    "andrewpeterprifer:slick",
+  version: "1.6.0",
+  git:     "https://github.com/andrewpeterprifer/meteor-slick"
 });
 
 Package.onUse(function(api) {
