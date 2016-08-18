@@ -6,8 +6,6 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.versionsFrom('METEOR@0.9.3.1');
-
   api.use('jquery', 'client');
 
   api.use('less');
